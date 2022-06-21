@@ -1,5 +1,4 @@
 # This playbook for apache configuration
-# This is for user
 ---
 - name: Install httpd
   hosts: node3
