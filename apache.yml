@@ -1,14 +1,8 @@
 # This playbook for apache configuration
-<<<<<<< HEAD
 # PT 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
 # what happen if i cange something
-
-=======
-# For test porpose
-# Review only
-# what happen if i cange something
 # GIT FOR FUN
->>>>>>> 425dc40720ee578e18b49dade64a62412bab1e65
+
 ---
 - name: Install httpd
   hosts: node3
