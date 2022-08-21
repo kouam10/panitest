@@ -1,11 +1,8 @@
 # This playbook for apache configuration
 # For test porpose
 # Review only
-<<<<<<< HEAD
 # what happen if i cange something
-=======
 # Need more practice on GIT
->>>>>>> 7ffa3563b91024e41d5103cc3ebcca53c6f4ac13
 ---
 - name: Install httpd
   hosts: node3
