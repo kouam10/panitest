@@ -1,6 +1,7 @@
 # This playbook for apache configuration
 # For test porpose
 # Review only
+# Need more practice on GIT
 ---
 - name: Install httpd
   hosts: node3
