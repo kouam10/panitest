@@ -1,7 +1,6 @@
 # This playbook for apache configuration
-# PT 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
-# what happen if i cange something
-# GIT FOR FUN
+# GIT for fun
+
 
 ---
 - name: Install httpd
